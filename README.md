@@ -88,7 +88,7 @@ expense-tracker/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/Kunal-Kumar-Rajak/expense-tracker.git
    ```
 2. Open the project using **Live Server**
 3. Install the app from the browser address bar or menu
@@ -123,7 +123,7 @@ Frontend & Web Development Enthusiast
 
 - 🔗 GitHub: https://github.com/Kunal-Kumar-Rajak  
 - 🔗 LinkedIn: https://linkedin.com/in/kunal-kumar-rajak  
-- 🌐 Portfolio: https://kunal-kumar-rajak.github.io/Profile/
+- 🌐 Portfolio: https://kunal-kumar-rajak-portfolio.netlify.app/
 
 ---
 
