@@ -5,7 +5,7 @@ The application is fully installable, works offline, and focuses on clean archit
 
 **Author:** **Kunal Kumar**
 
-LIVE:- https://expense-tracker-by-kunal-kumar-dev.netlify.app/
+LIVE:- https://kunal-kumar-dev.github.io/expense-tracker/
 ---
 
 ## 🚀 Features
